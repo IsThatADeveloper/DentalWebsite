@@ -1,4 +1,4 @@
 # DentalWebsite
 
-[website link](https://isthatadeveloper.github.io/MediplexPharmacyRemake/)
+[website link](https://isthatadeveloper.github.io/dentalwebsite/)
 
